@@ -108,6 +108,10 @@ Near-term milestones:
 4. Define initial verification matrix for thermal control and pressurization development path.
 5. Stand up first simulation scaffold for thermal-load and cabin-conditioning trade studies.
 
+## Knowledge Migration
+
+- Article-derived subsystem migration notes: `docs/ARTICLE_KNOWLEDGE_MIGRATION_2026Q2.md`
+
 ## Licensing
 
 This repository uses a dual-license model:
